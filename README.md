@@ -1,4 +1,4 @@
-<h1 align="center">🌊 Welcome to nori07-dev’s GitHub 🌊</h1>
+<h1 align="center">🌊 Welcome to inori07-dev’s GitHub 🌊</h1>
 <p align="center">
 
 ![My Image](image/img.png)
@@ -13,12 +13,6 @@
 
 1. I'm a web frontend and backend developer from Japan.
 2. Weekend Coding × Weekday Learning as a Habit
-
-#### 🎯 Goals
--  👨‍💻 Solo dev | 🎯 1+ project/week
--  💻 Sat–Sun: Build × 📚 Mon–Fri: Learn
--  ✍️ Tech article output on Zenn / note
-
 
 ## 🛠️ One I've used 🛠️
 
@@ -47,10 +41,6 @@
 ### 💻 IDEs/Editors
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,eclipse,vscode)](https://skillicons.dev)
 
-
-### 🌱 Social Media
-<a href="https://instagram.com/nori07-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nori07-dev" height="30" width="40" /></a>
-</p>
 
 <!-- line-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
