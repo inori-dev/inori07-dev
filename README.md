@@ -56,17 +56,17 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nori07-dev&show_icons=true&theme=dracula" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=inori-dev&show_icons=true&theme=dracula" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nori07-dev&hide_progress=true&theme=dracula" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inori-dev&hide_progress=true&theme=dracula" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
 ### 🏆 GitHub Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=nori07-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophy"/>
+<img src="https://github-profile-trophy.vercel.app/?username=inori-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophy"/>
 
 <!-- footer line-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
