@@ -1,4 +1,4 @@
-<h1 align="center">🌊 Welcome to inori07-dev’s GitHub 🌊</h1>
+<h1 align="center">🌊 Welcome to inori-dev’s GitHub 🌊</h1>
 <p align="center">
 
 ![My Image](image/img.png)
